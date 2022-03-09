@@ -6,3 +6,4 @@
 - <https://roytuts.com/spring-namedparameterjdbctemplate-and-mapsqlparametersource-example/>
 - <https://www.baeldung.com/spring-jdbc-jdbctemplate>
 - <https://www.javatpoint.com/spring-NamedParameterJdbcTemplate-example>
+- <https://javabydeveloper.com/spring-jdbctemplate-batch-update-with-maxperformance/>
