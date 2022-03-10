@@ -8,3 +8,4 @@
 - <https://www.javatpoint.com/spring-NamedParameterJdbcTemplate-example>
 - <https://javabydeveloper.com/spring-jdbctemplate-batch-update-with-maxperformance/>
 - <https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-writing-information-to-a-database-with-jdbc/>
+- <https://docs.spring.io/spring-batch/docs/current/reference/html/step.html>
